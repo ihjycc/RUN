@@ -1,5 +1,5 @@
 ## 前言
-跑步助手V4.1
+跑步助手V5.0
 ![](http://www.ihjycc.top/app/1.png)
 ## 功能
 - 已实现	
