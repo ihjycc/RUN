@@ -43,5 +43,5 @@
 
 ## 免责声明
 本项目仅供 Python 和 C 学习交流作者对软件的用途不做任何说明或暗示。作者对使用本软件造成的一切后果概不负责，如有疑问可联系QQ1435856744，或联系邮箱ihycc@gmail.com。 
-![](http://www.ihjycc.top/app/3.png)
-![](http://www.ihjycc.top/app/4.png)
+![](http://www.ihjycc.top/app/3.jpg)
+![](http://www.ihjycc.top/app/4.jpg)
