@@ -1,6 +1,6 @@
 ## 前言
 跑步助手V5.0=====需要激活码请联系QQ:1435856744。24小时在线
-![](http://www.ihjycc.top/app/1.png)
+![](http://www.ihjycc.top/app/2.png)
 ## 功能
 - 已实现	
   - [x] 让你方便地打开开发者模式
