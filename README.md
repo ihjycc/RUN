@@ -12,7 +12,7 @@
   - [x] 支持最新的IOS系统   
   - [x] 每跑完一次设定的路径随机一次速度   
 ## 使用方法
-- 下载 [跑步助手](https://github.com/ihjycc/RUN/releases/download/6.5/RUN_V6.5.zip) 软件并解压到空文件夹中
+- 下载 [跑步助手](https://github.com/ihjycc/RUN/releases/download/6.6/RUN_V6.6.zip) 软件并解压到空文件夹中
 
 - 虚拟定位需要开发者镜像。软件首次打开会自动下载开发者镜像。
 
@@ -21,7 +21,7 @@
 - 进入设置 > 隐私与安全性
   - 打开开发者模式开关
 
-  - 打开[路径拾取网站](https://route.ihjycc.top)。通过点击地图构造路径。点击时无需考虑间距（尽量密集），会自动用直线连接。只用画一圈，单击右方方的路径坐标——复制，将坐标数据复制到剪贴板
+  - 打开[路径拾取网站](https://route.liangxinxunguo.com)。通过点击地图构造路径。点击时无需考虑间距（尽量密集），会自动用直线连接。只用画一圈，单击右方方的路径坐标——复制，将坐标数据复制到剪贴板
 
   - 打开软件，将坐标数据粘贴输入框，点击写入路径
 
@@ -44,4 +44,4 @@
 
 ## 免责声明
 本项目仅供 Python 和 C 学习交流作者对软件的用途不做任何说明或暗示。作者对使用本软件造成的一切后果概不负责，如有疑问可联系QQ1435856744，或联系邮箱ihjycc@gmail.com。 
-![](http://www.ihjycc.top/app/5.jpg)
+![](https://download.liangxinxunguo.com/app/5.jpg)
